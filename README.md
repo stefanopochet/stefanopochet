@@ -1,16 +1,25 @@
-### Hi there 👋
+## Stefano Pochet - Growth Engineer
 
-<!--
-**stefanopochet/stefanopochet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Growth Engineer (Full Stack Engineer + Growth Marketer)
 
-Here are some ideas to get you started:
+- 🚀 **Startups Savvy:** Played key technical roles in accelerating startups across San Francisco, London, and Rome.
+- 🛠 **Pivotal Roles:** Former CTO of Italy's largest digital media company
+- 🏆 **Proven Founder:** Launched and exited Freebar.com, Italy's leading social network in 2006.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Current Role: Working remotely as a consultant, offering my expertise in growth engineering and full-stack development.
+
+### Skills
+
+#### 🤖 AI Development
+- **Python, LangChain, OpenAI, Prompt Engineering**
+
+#### 📊 Data Engineering
+- **DBT, Airbyte, PostgreSQL, MySQL, AWS, CloudFormation**
+
+#### 🔧 Backend Engineering
+- **Python, PHP, Java, Node.js, SQLite, Bash Scripting, DevOps (AWS specific tools/services)**
+
+#### 🎨 Frontend Development
+- **JavaScript, HTML, CSS, React, Angular, Mobile Development (Android)**
+
+**🔗 [Explore More on LinkedIn](https://www.linkedin.com/in/stefanopochet/) ➡️**
