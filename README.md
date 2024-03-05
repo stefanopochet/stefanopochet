@@ -17,7 +17,7 @@ I am a Growth Engineer (Full Stack Engineer + Growth Marketer)
 - **DBT, Airbyte, PostgreSQL, MySQL, AWS, CloudFormation**
 
 #### 🔧 Backend Engineering
-- **Python, PHP, Java, Node.js, SQLite, Bash Scripting, DevOps (AWS specific tools/services)**
+- **Python, PHP, Java, Node.js, SQLite, Bash Scripting, DevOps (AWS)**
 
 #### 🎨 Frontend Development
 - **JavaScript, HTML, CSS, React, Angular, Mobile Development (Android)**
