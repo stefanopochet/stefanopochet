@@ -22,4 +22,12 @@ I am a Growth Engineer (Full Stack Engineer + Growth Marketer)
 #### 🎨 Frontend Development
 - **JavaScript, HTML, CSS, React, Angular, Mobile Development (Android)**
 
+- ---
+
+### Currently Building
+I'm currently developing the first-ever AI-based web scraper, **Webtap.ai**. This project aims to revolutionize data extraction from the web, leveraging artificial intelligence to simplify and automate the scraping process. 
+
+- [GitHub](https://github.com/webtap-ai/webtap-ai/)
+- [Website](https://webtap.ai/)
+
 **🔗 [Explore More on LinkedIn](https://www.linkedin.com/in/stefanopochet/) ➡️**
