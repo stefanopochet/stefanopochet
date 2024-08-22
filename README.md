@@ -25,7 +25,7 @@ I am a Growth Engineer (Full Stack Engineer + Growth Marketer)
 ### Currently Building
 I'm currently developing the first-ever AI-based web scraper, **Webtap.ai**. This project aims to revolutionize data extraction from the web, leveraging artificial intelligence to simplify and automate the scraping process. 
 
-- [GitHub](https://github.com/webtap-ai/webtap-ai/)
+- [GitHub](https://github.com/webtap-ai/webtap/)
 - [Website](https://webtap.ai/)
 
 --
